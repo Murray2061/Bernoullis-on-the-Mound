@@ -9,6 +9,7 @@ Daily MLB pitcher rankings throughout the 2026 season, based on a Bernoulli-styl
 - **Suppression**: how rare the pitcher’s IP-and-DivR line is under the Bernoulli pitcher model. Lower is better.
 
 Created On: 2026-03-29
+**Bernoulli** $p$: estimated from MLB-wide totals on 2026-03-29 (422.0 runs in 839.2 IP).
 
 | Rank  |  Tier  |  Team  | Picther  |  IP  | DivR  |   Suppression   |
 | ----: | :----: | :----: | -------: | ---: | ----: | --------------: |
