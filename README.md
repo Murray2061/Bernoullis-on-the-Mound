@@ -1,6 +1,13 @@
 # Bernoullis-on-the-Mound
 Daily MLB pitcher rankings throughout the 2026 season, based on a Bernoulli-style run suppression model.
 
+## Glossary
+- **Rank**: numeric ordering.
+- **Tier**: assigned by comparison to Bernoulli dummy pitchers, which serve as fixed reference thresholds for the S/A/B/C/D bands.
+- **IP**: innings pitched.
+- **DivR**: divided runs allowed; each scored run is split 50/50 between the pitcher who put the runner on base and the pitcher who allowed the runner to score.
+- **Suppression**: how rare the pitcher’s IP-and-DivR line is under the Bernoulli pitcher model. Lower is better.
+
 Created On: 2026-03-29
 
 | Rank  |  Tier  |  Team  | Picther  |  IP  | DivR  |   Suppression   |
