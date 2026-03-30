@@ -8,9 +8,10 @@ Daily MLB pitcher rankings throughout the 2026 season, based on a Bernoulli-styl
 - **DivR**: divided runs allowed; each scored run is split 50/50 between the pitcher who put the runner on base and the pitcher who allowed the runner to score.
 - **Suppression**: how rare the pitcher’s IP-and-DivR line is under the Bernoulli pitcher model. Lower is better.
 
-Created On: 2026-03-29; MLB totals: 422.0 runs, 839.2 IP.
+Created on: 2026-03-29; MLB totals: 422.0 runs, 839.2 IP.
 
-| Rank  |  Tier  |  Team  | Picther  |  IP  | DivR  |   Suppression   |
+
+| Rank  |  Tier  |  Team  | Pitcher  |  IP  | DivR  |   Suppression   |
 | ----: | :----: | :----: | -------: | ---: | ----: | --------------: |
 |     | S | --- |     [Bernoulli-Dummy-S-IP9-R0] |    9.0 |   0.0 | 0.01526845 |
 |   1 | A | BAL |                  Trevor_Rogers |    7.0 |   0.0 | 0.03867194 |
