@@ -3,335 +3,335 @@ Daily MLB pitcher rankings throughout the 2026 season, based on a Bernoulli-styl
 
 Created On: 2026-03-29
 
-| Rank |  Team |  Picther |   IP | DivR | Suppression |
-| ---: | :---: | -------: | ---: | ---: | --------------: |
-|     | --- |     [Bernoulli-Dummy-S-IP9-R0] |    9.0 |   0.0 | 0.01526845 |
-|   1 | BAL |                  Trevor_Rogers |    7.0 |   0.0 | 0.03867194 |
-|   2 | NYY |                      Max_Fried |    6.1 |   0.0 | 0.05271445 |
-|   2 | KCR |                      Seth_Lugo |    6.1 |   0.0 | 0.05271445 |
-|   3 | PIT |                   Mitch_Keller |    6.0 |   0.0 | 0.06154554 |
-|   3 | KCR |                  Michael_Wacha |    6.0 |   0.0 | 0.06154554 |
-|   3 | PHI |             Cristopher_Sánchez |    6.0 |   0.0 | 0.06154554 |
-|   3 | STL |               Michael_McGreevy |    6.0 |   0.0 | 0.06154554 |
-|   3 | BOS |                Garrett_Crochet |    6.0 |   0.0 | 0.06154554 |
-|   3 | ATL |                     Chris_Sale |    6.0 |   0.0 | 0.06154554 |
-|   3 | SDP |                  Randy_Vásquez |    6.0 |   0.0 | 0.06154554 |
-|   3 | CIN |                  Andrew_Abbott |    6.0 |   0.0 | 0.06154554 |
-|   3 | LAA |                   José_Soriano |    6.0 |   0.0 | 0.06154554 |
-|   3 | SEA |                Emerson_Hancock |    6.0 |   0.0 | 0.06154554 |
-|   4 | NYY |                 Cam_Schlittler |    5.1 |   0.0 | 0.08389388 |
-|   4 | MIN |                       Joe_Ryan |    5.1 |   0.0 | 0.08389388 |
-|   4 | NYM |                 David_Peterson |    5.1 |   0.0 | 0.08389388 |
-|     | --- |     [Bernoulli-Dummy-A-IP8-R1] |    8.0 |   1.0 | 0.10797986 |
-|   5 | HOU |                   Hunter_Brown |    4.2 |   0.0 | 0.11435733 |
-|   6 | MIA |                Sandy_Alcantara |    7.0 |   1.0 | 0.15520060 |
-|   7 | TEX |                     Jacob_Latz |    4.0 |   0.0 | 0.15588263 |
-|   7 | PIT |                  Yohan_Ramírez |    4.0 |   0.0 | 0.15588263 |
-|   8 | BOS |                 Connelly_Early |    5.1 |   0.5 | 0.18019641 |
-|   9 | ARI |              Eduardo_Rodríguez |    5.0 |   0.5 | 0.20335690 |
-|   9 | SDP |                   Michael_King |    5.0 |   0.5 | 0.20335690 |
-|  10 | SEA |                   George_Kirby |    6.0 |   1.0 | 0.22050504 |
-|  10 | TOR |                  Kevin_Gausman |    6.0 |   1.0 | 0.22050504 |
-|  10 | DET |                   Tarik_Skubal |    6.0 |   1.0 | 0.22050504 |
-|  10 | ATL |                 Reynaldo_López |    6.0 |   1.0 | 0.22050504 |
-|  11 | LAA |                    Sam_Bachman |    3.0 |   0.0 | 0.24808373 |
-|  11 | MIL |                 Grant_Anderson |    3.0 |   0.0 | 0.24808373 |
-|  11 | PIT |                 Dennis_Santana |    3.0 |   0.0 | 0.24808373 |
-|  12 | TOR |                    Dylan_Cease |    5.1 |   1.0 | 0.27649894 |
-|  13 | COL |              Antonio_Senzatela |    2.2 |   0.0 | 0.28964441 |
-|  13 | HOU |                   Steven_Okert |    2.2 |   0.0 | 0.28964441 |
-|  13 | MIL |                    Aaron_Ashby |    2.2 |   0.0 | 0.28964441 |
-|  14 | TBR |                 Drew_Rasmussen |    5.0 |   1.0 | 0.30876545 |
-|  14 | STL |             Matthew_Liberatore |    5.0 |   1.0 | 0.30876545 |
-|  14 | MIL |              Jacob_Misiorowski |    5.0 |   1.0 | 0.30876545 |
-|  15 | ATH |                      J.T._Ginn |    3.2 |   0.5 | 0.32562699 |
-|  16 | STL |                  Riley_O'Brien |    2.1 |   0.0 | 0.33816760 |
-|  16 | TOR |                 Braydon_Fisher |    2.1 |   0.0 | 0.33816760 |
-|  16 | NYY |                       Tim_Hill |    2.1 |   0.0 | 0.33816760 |
-|  16 | PIT |                   Gregory_Soto |    2.1 |   0.0 | 0.33816760 |
-|  16 | NYM |               Huascar_Brazobán |    2.1 |   0.0 | 0.33816760 |
-|  16 | DET |                 Connor_Seabold |    2.1 |   0.0 | 0.33816760 |
-|  16 | SFG |                    JT_Brubaker |    2.1 |   0.0 | 0.33816760 |
-|  16 | NYY |                      Jake_Bird |    2.1 |   0.0 | 0.33816760 |
-|  16 | TEX |                    Jalen_Beeks |    2.1 |   0.0 | 0.33816760 |
-|  16 | BOS |                    Ryan_Watson |    2.1 |   0.0 | 0.33816760 |
-|     | --- |     [Bernoulli-Dummy-B-IP7-R2] |    7.0 |   2.0 | 0.33912647 |
-|  17 | MIN |                    Taj_Bradley |    4.1 |   1.0 | 0.38256817 |
-|  17 | MIL |                   Chad_Patrick |    4.1 |   1.0 | 0.38256817 |
-|  17 | HOU |                    AJ_Blubaugh |    4.1 |   1.0 | 0.38256817 |
-|  17 | NYY |                    Will_Warren |    4.1 |   1.0 | 0.38256817 |
-|  18 | ATH |                Jeffrey_Springs |    5.1 |   1.5 | 0.39395463 |
-|  18 | TEX |                 MacKenzie_Gore |    5.1 |   1.5 | 0.39395463 |
-|  19 | SEA |                 Casey_Legumina |    2.0 |   0.0 | 0.39481974 |
-|  19 | SDP |                   David_Morgan |    2.0 |   0.0 | 0.39481974 |
-|  19 | TBR |                    Bryan_Baker |    2.0 |   0.0 | 0.39481974 |
-|  19 | SFG |                      Matt_Gage |    2.0 |   0.0 | 0.39481974 |
-|  19 | LAA |                 Ryan_Zeferjahn |    2.0 |   0.0 | 0.39481974 |
-|  19 | SFG |                    Keaton_Winn |    2.0 |   0.0 | 0.39481974 |
-|  19 | BAL |                  Anthony_Nunez |    2.0 |   0.0 | 0.39481974 |
-|  19 | LAA |                    Brent_Suter |    2.0 |   0.0 | 0.39481974 |
-|  19 | ATL |                      Dylan_Lee |    2.0 |   0.0 | 0.39481974 |
-|  19 | BOS |                Aroldis_Chapman |    2.0 |   0.0 | 0.39481974 |
-|  19 | ARI |                  Ryan_Thompson |    2.0 |   0.0 | 0.39481974 |
-|  19 | LAD |                     Edwin_Díaz |    2.0 |   0.0 | 0.39481974 |
-|  19 | BAL |                   Ryan_Helsley |    2.0 |   0.0 | 0.39481974 |
-|  19 | TBR |                 Yoendrys_Gómez |    2.0 |   0.0 | 0.39481974 |
-|  19 | LAD |                     Will_Klein |    2.0 |   0.0 | 0.39481974 |
-|  19 | MIA |                 Pete_Fairbanks |    2.0 |   0.0 | 0.39481974 |
-|  19 | TOR |                   Tyler_Rogers |    2.0 |   0.0 | 0.39481974 |
-|  19 | CLE |                 Erik_Sabrowski |    2.0 |   0.0 | 0.39481974 |
-|  19 | SDP |             Bradgley_Rodriguez |    2.0 |   0.0 | 0.39481974 |
-|  19 | BOS |               Garrett_Whitlock |    2.0 |   0.0 | 0.39481974 |
-|  19 | NYY |                   David_Bednar |    2.0 |   0.0 | 0.39481974 |
-|  19 | CIN |                       Sam_Moll |    2.0 |   0.0 | 0.39481974 |
-|  19 | MIA |                 Tyler_Phillips |    2.0 |   0.0 | 0.39481974 |
-|  19 | MIL |                        DL_Hall |    2.0 |   0.0 | 0.39481974 |
-|  19 | BOS |                   Jovani_Morán |    2.0 |   0.0 | 0.39481974 |
-|  19 | SDP |                      Kyle_Hart |    2.0 |   0.0 | 0.39481974 |
-|  19 | KCR |                    Lucas_Erceg |    2.0 |   0.0 | 0.39481974 |
-|  19 | WSN |                 Clayton_Beeter |    2.0 |   0.0 | 0.39481974 |
-|  19 | LAD |                     Alex_Vesia |    2.0 |   0.0 | 0.39481974 |
-|  19 | PHI |                      Tim_Mayza |    2.0 |   0.0 | 0.39481974 |
-|  19 | COL |                   Jimmy_Herget |    2.0 |   0.0 | 0.39481974 |
-|  19 | LAA |                  Jordan_Romano |    2.0 |   0.0 | 0.39481974 |
-|  19 | TEX |                    Jakob_Junis |    2.0 |   0.0 | 0.39481974 |
-|  19 | NYM |                    Luke_Weaver |    2.0 |   0.0 | 0.39481974 |
-|  19 | TOR |                    Tommy_Nance |    2.0 |   0.0 | 0.39481974 |
-|  19 | CIN |                 Tony_Santillan |    2.0 |   0.0 | 0.39481974 |
-|  19 | COL |                     Juan_Mejia |    2.0 |   0.0 | 0.39481974 |
-|  19 | NYY |                   Camilo_Doval |    2.0 |   0.0 | 0.39481974 |
-|  20 | CHC |                    Cade_Horton |    6.1 |   2.0 | 0.40264302 |
-|  21 | ATL |                 Didier_Fuentes |    4.0 |   1.0 | 0.42429120 |
-|  21 | SEA |                Cooper_Criswell |    4.0 |   1.0 | 0.42429120 |
-|  22 | LAD |             Yoshinobu_Yamamoto |    6.0 |   2.0 | 0.43718939 |
-|  22 | DET |                 Framber_Valdez |    6.0 |   2.0 | 0.43718939 |
-|  22 | TBR |                      Joe_Boyle |    6.0 |   2.0 | 0.43718939 |
-|  22 | LAD |                  Tyler_Glasnow |    6.0 |   2.0 | 0.43718939 |
-|  22 | SEA |                      Bryan_Woo |    6.0 |   2.0 | 0.43718939 |
-|  23 | ATH |                   Scott_Barlow |    2.2 |   0.5 | 0.45588710 |
-|  24 | SFG |                    Erik_Miller |    1.2 |   0.0 | 0.46096263 |
-|  24 | NYY |                 Brent_Headrick |    1.2 |   0.0 | 0.46096263 |
-|  24 | ARI |                Andrew_Hoffmann |    1.2 |   0.0 | 0.46096263 |
-|  24 | STL |                    JoJo_Romero |    1.2 |   0.0 | 0.46096263 |
-|  24 | KCR |                    Matt_Strahm |    1.2 |   0.0 | 0.46096263 |
-|  24 | WSN |                      PJ_Poulin |    1.2 |   0.0 | 0.46096263 |
-|  24 | CLE |                     Matt_Festa |    1.2 |   0.0 | 0.46096263 |
-|  25 | CLE |                Peyton_Pallette |    3.2 |   1.0 | 0.46925683 |
-|  26 | ARI |              Jonathan_Loáisiga |    2.1 |   0.5 | 0.50799880 |
-|  26 | HOU |                   Kai-Wei_Teng |    2.1 |   0.5 | 0.50799880 |
-|  27 | TOR |                     Eric_Lauer |    5.1 |   2.0 | 0.51141032 |
-|  27 | SFG |                     Robbie_Ray |    5.1 |   2.0 | 0.51141032 |
-|  28 | NYM |                    Sean_Manaea |    1.1 |   0.0 | 0.53818622 |
-|  28 | LAD |                   Tanner_Scott |    1.1 |   0.0 | 0.53818622 |
-|  28 | COL |                     Zach_Agnos |    1.1 |   0.0 | 0.53818622 |
-|  28 | MIN |                      Eric_Orze |    1.1 |   0.0 | 0.53818622 |
-|  28 | MIN |                  Anthony_Banda |    1.1 |   0.0 | 0.53818622 |
-|  28 | SFG |                    Ryan_Walker |    1.1 |   0.0 | 0.53818622 |
-|  28 | DET |                      Will_Vest |    1.1 |   0.0 | 0.53818622 |
-|  28 | WSN |                    Gus_Varland |    1.1 |   0.0 | 0.53818622 |
-|  29 | MIA |                     Eury_Pérez |    7.0 |   3.0 | 0.54145953 |
-|  30 | ATH |                  Luis_Severino |    5.0 |   2.0 | 0.55076427 |
-|  30 | WSN |                     Jake_Irvin |    5.0 |   2.0 | 0.55076427 |
-|  30 | CIN |                   Rhett_Lowder |    5.0 |   2.0 | 0.55076427 |
-|  30 | NYM |                   Nolan_McLean |    5.0 |   2.0 | 0.55076427 |
-|  31 | TOR |                  Louis_Varland |    2.0 |   0.5 | 0.56477615 |
-|  31 | SDP |                 Adrián_Morejón |    2.0 |   0.5 | 0.56477615 |
-|  31 | TEX |                Tyler_Alexander |    2.0 |   0.5 | 0.56477615 |
-|  32 | NYM |                   Tobias_Myers |    3.0 |   1.0 | 0.56845844 |
-|  32 | MIL |                  Jake_Woodford |    3.0 |   1.0 | 0.56845844 |
-|  33 | CHW |                    Anthony_Kay |    4.2 |   2.0 | 0.59130556 |
-|  34 | TEX |                 Carter_Baumler |    2.2 |   1.0 | 0.62212979 |
-|  35 | TEX |                      Cole_Winn |    1.2 |   0.5 | 0.62631984 |
-|  35 | CHC |                     Phil_Maton |    1.2 |   0.5 | 0.62631984 |
-|  35 | CIN |                    Brock_Burke |    1.2 |   0.5 | 0.62631984 |
-|  36 | DET |                  Kenley_Jansen |    1.0 |   0.0 | 0.62834683 |
-|  36 | MIN |                     Cole_Sands |    1.0 |   0.0 | 0.62834683 |
-|  36 | SFG |                   Caleb_Kilian |    1.0 |   0.0 | 0.62834683 |
-|  36 | ARI |                       Joe_Ross |    1.0 |   0.0 | 0.62834683 |
-|  36 | WSN |                     Cole_Henry |    1.0 |   0.0 | 0.62834683 |
-|  36 | CHC |                 Caleb_Thielbar |    1.0 |   0.0 | 0.62834683 |
-|  36 | KCR |                     Alex_Lange |    1.0 |   0.0 | 0.62834683 |
-|  36 | MIL |                    Abner_Uribe |    1.0 |   0.0 | 0.62834683 |
-|  36 | MIA |                      John_King |    1.0 |   0.0 | 0.62834683 |
-|  36 | TOR |                  Spencer_Miles |    1.0 |   0.0 | 0.62834683 |
-|  36 | PHI |                Jonathan_Bowlan |    1.0 |   0.0 | 0.62834683 |
-|  36 | MIA |                 Calvin_Faucher |    1.0 |   0.0 | 0.62834683 |
-|  36 | DET |                  Kyle_Finnegan |    1.0 |   0.0 | 0.62834683 |
-|  36 | TBR |                    Kevin_Kelly |    1.0 |   0.0 | 0.62834683 |
-|  36 | PHI |                  José_Alvarado |    1.0 |   0.0 | 0.62834683 |
-|  36 | MIN |                  Taylor_Rogers |    1.0 |   0.0 | 0.62834683 |
-|  36 | PHI |                   Tanner_Banks |    1.0 |   0.0 | 0.62834683 |
-|  36 | SEA |                    Cole_Wilcox |    1.0 |   0.0 | 0.62834683 |
-|  36 | SDP |                   Mason_Miller |    1.0 |   0.0 | 0.62834683 |
-|  36 | PHI |                    Brad_Keller |    1.0 |   0.0 | 0.62834683 |
-|  36 | MIA |               Michael_Petersen |    1.0 |   0.0 | 0.62834683 |
-|  36 | ATL |                  Robert_Suarez |    1.0 |   0.0 | 0.62834683 |
-|  36 | CHC |                  Hunter_Harvey |    1.0 |   0.0 | 0.62834683 |
-|  36 | COL |             Brennan_Bernardino |    1.0 |   0.0 | 0.62834683 |
-|  36 | LAD |              Edgardo_Henriquez |    1.0 |   0.0 | 0.62834683 |
-|  36 | ATL |                   Osvaldo_Bido |    1.0 |   0.0 | 0.62834683 |
-|  36 | BAL |                  Grant_Wolfram |    1.0 |   0.0 | 0.62834683 |
-|  36 | LAD |                  Blake_Treinen |    1.0 |   0.0 | 0.62834683 |
-|  36 | STL |                 George_Soriano |    1.0 |   0.0 | 0.62834683 |
-|  36 | NYM |                   Brooks_Raley |    1.0 |   0.0 | 0.62834683 |
-|  36 | NYM |                 Devin_Williams |    1.0 |   0.0 | 0.62834683 |
-|  36 | MIL |                  Trevor_Megill |    1.0 |   0.0 | 0.62834683 |
-|  36 | CHC |                Daniel_Palencia |    1.0 |   0.0 | 0.62834683 |
-|  36 | DET |              Enmanuel_De_Jesus |    1.0 |   0.0 | 0.62834683 |
-|  36 | ATL |                   Tyler_Kinley |    1.0 |   0.0 | 0.62834683 |
-|  36 | MIL |                   Jared_Koenig |    1.0 |   0.0 | 0.62834683 |
-|  36 | SEA |                     Matt_Brash |    1.0 |   0.0 | 0.62834683 |
-|  36 | MIL |                    Angel_Zerpa |    1.0 |   0.0 | 0.62834683 |
-|  37 | LAA |                  Yusei_Kikuchi |    4.1 |   2.0 | 0.63272197 |
-|  37 | COL |                  Jose_Quintana |    4.1 |   2.0 | 0.63272197 |
-|  37 | PIT |              Carmen_Mlodzinski |    4.1 |   2.0 | 0.63272197 |
-|  37 | COL |                  Kyle_Freeland |    4.1 |   2.0 | 0.63272197 |
-|     | --- |     [Bernoulli-Dummy-C-IP6-R3] |    6.0 |   3.0 | 0.64446763 |
-|  38 | SFG |                    Tyler_Mahle |    4.0 |   2.0 | 0.67462943 |
-|  39 | WSN |                      Brad_Lord |    2.1 |   1.0 | 0.67783000 |
-|  39 | CHW |                 Jordan_Leasure |    2.1 |   1.0 | 0.67783000 |
-|  39 | CIN |                   Emilio_Pagán |    2.1 |   1.0 | 0.67783000 |
-|  40 | LAA |                   Reid_Detmers |    4.2 |   2.5 | 0.68590189 |
-|  41 | MIN |                Kody_Funderburk |    1.1 |   0.5 | 0.69263340 |
-|  41 | BOS |                  Justin_Slaten |    1.1 |   0.5 | 0.69263340 |
-|  42 | SEA |                  Logan_Gilbert |    5.1 |   3.0 | 0.71365296 |
-|  43 | CLE |                  Joey_Cantillo |    3.2 |   2.0 | 0.71656779 |
-|  44 | DET |                  Jack_Flaherty |    4.1 |   2.5 | 0.72245752 |
-|  45 | HOU |                     Bryan_King |    2.2 |   1.5 | 0.72947249 |
-|  45 | CIN |                Connor_Phillips |    2.2 |   1.5 | 0.72947249 |
-|  46 | BAL |                   Yennier_Cano |    0.2 |   0.0 | 0.73361176 |
-|  46 | LAD |                  Ben_Casparius |    0.2 |   0.0 | 0.73361176 |
-|  46 | SEA |                 Jose_A._Ferrer |    0.2 |   0.0 | 0.73361176 |
-|  46 | NYY |                  Fernando_Cruz |    0.2 |   0.0 | 0.73361176 |
-|  46 | BOS |                 Danny_Coulombe |    0.2 |   0.0 | 0.73361176 |
-|  46 | MIA |                   Andrew_Nardi |    0.2 |   0.0 | 0.73361176 |
-|  46 | DET |                   Tyler_Holton |    0.2 |   0.0 | 0.73361176 |
-|  46 | CLE |                     Tim_Herrin |    0.2 |   0.0 | 0.73361176 |
-|  47 | CLE |                Shawn_Armstrong |    2.0 |   1.0 | 0.73473255 |
-|  47 | ATH |                   Hogan_Harris |    2.0 |   1.0 | 0.73473255 |
-|  47 | TOR |                   Jeff_Hoffman |    2.0 |   1.0 | 0.73473255 |
-|  47 | WSN |                   Cionel_Pérez |    2.0 |   1.0 | 0.73473255 |
-|  47 | CHW |                   Grant_Taylor |    2.0 |   1.0 | 0.73473255 |
-|  47 | LAA |                  Chase_Silseth |    2.0 |   1.0 | 0.73473255 |
-|  47 | CLE |                     Cade_Smith |    2.0 |   1.0 | 0.73473255 |
-|  48 | PHI |                     Aaron_Nola |    5.0 |   3.0 | 0.74753402 |
-|  48 | CLE |                 Gavin_Williams |    5.0 |   3.0 | 0.74753402 |
-|  48 | MIA |                      Max_Meyer |    5.0 |   3.0 | 0.74753402 |
-|  48 | CLE |                   Tanner_Bibee |    5.0 |   3.0 | 0.74753402 |
-|  48 | ATL |                   Grant_Holmes |    5.0 |   3.0 | 0.74753402 |
-|  49 | DET |                   Brant_Hurter |    1.0 |   0.5 | 0.76358775 |
-|  49 | PIT |                   José_Urquidy |    1.0 |   0.5 | 0.76358775 |
-|  50 | PIT |               Mason_Montgomery |    2.1 |   1.5 | 0.77530537 |
-|  51 | BAL |                   Kyle_Bradish |    4.2 |   3.0 | 0.78049823 |
-|  52 | CIN |                Graham_Ashcraft |    1.2 |   1.0 | 0.79167706 |
-|  52 | CIN |                 Pierce_Johnson |    1.2 |   1.0 | 0.79167706 |
-|  52 | LAD |                    Jack_Dreyer |    1.2 |   1.0 | 0.79167706 |
-|  52 | COL |                     Jaden_Hill |    1.2 |   1.0 | 0.79167706 |
-|  52 | SFG |                   Ryan_Borucki |    1.2 |   1.0 | 0.79167706 |
-|  52 | SEA |                 Eduard_Bazardo |    1.2 |   1.0 | 0.79167706 |
-|  52 | BAL |                  Dietrich_Enns |    1.2 |   1.0 | 0.79167706 |
-|  52 | TEX |                  Robert_Garcia |    1.2 |   1.0 | 0.79167706 |
-|  53 | KCR |                  Bailey_Falter |    3.0 |   2.0 | 0.79830905 |
-|  54 | CHC |                  Shota_Imanaga |    5.0 |   3.5 | 0.81106101 |
-|  55 | COL |               Michael_Lorenzen |    4.1 |   3.0 | 0.81219307 |
-|  56 | MIN |                    Justin_Topa |    2.0 |   1.5 | 0.82008638 |
-|  56 | CLE |                 Connor_Brogdon |    2.0 |   1.5 | 0.82008638 |
-|  57 | CHC |                      Ben_Brown |    3.1 |   2.5 | 0.82705102 |
-|  58 | HOU |                  Roddery_Muñoz |    2.2 |   2.0 | 0.83681518 |
-|  59 | ATL |                   Aaron_Bummer |    0.2 |   0.5 | 0.83887669 |
-|  60 | MIN |                    Bailey_Ober |    4.0 |   3.0 | 0.84225929 |
-|  60 | CIN |                   Brady_Singer |    4.0 |   3.0 | 0.84225929 |
-|  61 | HOU |                  Christian_Roa |    1.1 |   1.0 | 0.84708059 |
-|  61 | DET |                  Drew_Anderson |    1.1 |   1.0 | 0.84708059 |
-|  61 | ATH |                  Michael_Kelly |    1.1 |   1.0 | 0.84708059 |
-|  62 | BAL |                      Shane_Baz |    5.1 |   4.0 | 0.85149566 |
-|  63 | BAL |                    Rico_Garcia |    0.1 |   0.0 | 0.85651139 |
-|  63 | ARI |                    Paul_Sewald |    0.1 |   0.0 | 0.85651139 |
-|  63 | MIA |                 Anthony_Bender |    0.1 |   0.0 | 0.85651139 |
-|  64 | WSN |                   Cade_Cavalli |    3.2 |   3.0 | 0.87034178 |
-|  65 | CHW |                   Sean_Newcomb |    2.1 |   2.0 | 0.87278074 |
-|  65 | STL |                  Justin_Bruihl |    2.1 |   2.0 | 0.87278074 |
-|  66 | TBR |                    Steven_Matz |    5.0 |   4.0 | 0.87458800 |
-|  66 | NYM |                 Freddy_Peralta |    5.0 |   4.0 | 0.87458800 |
-|  67 | ARI |                     Zac_Gallen |    4.0 |   3.5 | 0.88735862 |
-|  68 | ARI |                    Ryne_Nelson |    4.2 |   4.0 | 0.89587295 |
-|  69 | LAD |                  Emmet_Sheehan |    3.1 |   3.0 | 0.89610305 |
-|  70 | KCR |                 John_Schreiber |    1.0 |   1.0 | 0.89882867 |
-|  70 | ARI |                   Kevin_Ginkel |    1.0 |   1.0 | 0.89882867 |
-|  70 | HOU |                     Ryan_Weiss |    1.0 |   1.0 | 0.89882867 |
-|  71 | TBR |             Garrett_Cleavinger |    1.1 |   1.5 | 0.90248411 |
-|  71 | SDP |                  Wandy_Peralta |    1.1 |   1.5 | 0.90248411 |
-|  72 | PHI |                       Zach_Pop |    2.0 |   2.0 | 0.90544021 |
-|  72 | SDP |                 Ron_Marinaccio |    2.0 |   2.0 | 0.90544021 |
-|  72 | CHC |                    Hoby_Milner |    2.0 |   2.0 | 0.90544021 |
-|  72 | NYM |               Richard_Lovelady |    2.0 |   2.0 | 0.90544021 |
-|  72 | TBR |                    Cole_Sulser |    2.0 |   2.0 | 0.90544021 |
-|  72 | CHC |                     Jacob_Webb |    2.0 |   2.0 | 0.90544021 |
-|  73 | STL |                    Ryne_Stanek |    2.1 |   2.5 | 0.91474055 |
-|  74 | HOU |                   Mike_Burrows |    5.2 |   5.0 | 0.91571137 |
-|  75 | ATL |                   Joel_Payamps |    0.1 |   0.5 | 0.91796120 |
-|  75 | ATH |                    Luis_Medina |    0.1 |   0.5 | 0.91796120 |
-|  76 | CLE |                Colin_Holderman |    3.0 |   3.0 | 0.91923917 |
-|  77 | CHW |                     Sean_Burke |    4.0 |   4.0 | 0.93245795 |
-|  77 | KCR |                    Cole_Ragans |    4.0 |   4.0 | 0.93245795 |
-|  77 | BOS |                     Sonny_Gray |    4.0 |   4.0 | 0.93245795 |
-|  78 | PHI |                    Jhoan_Duran |    1.2 |   2.0 | 0.93403832 |
-|  78 | BAL |                    Tyler_Wells |    1.2 |   2.0 | 0.93403832 |
-|  78 | PIT |                Justin_Lawrence |    1.2 |   2.0 | 0.93403832 |
-|  79 | ATH |                 Elvis_Alvarado |    1.0 |   1.5 | 0.93763973 |
-|  80 | SEA |                   Andrés_Muñoz |    2.0 |   2.5 | 0.93809968 |
-|  80 | NYM |                    Luis_García |    2.0 |   2.5 | 0.93809968 |
-|  81 | ATH |                   Luis_Morales |    4.1 |   4.5 | 0.94032817 |
-|  82 | CHW |                   Bryan_Hudson |    0.2 |   1.0 | 0.94414163 |
-|  82 | ATH |                Mark_Leiter_Jr. |    0.2 |   1.0 | 0.94414163 |
-|  82 | SFG |                     José_Buttó |    0.2 |   1.0 | 0.94414163 |
-|  82 | BAL |                Yaramil_Hiraldo |    0.2 |   1.0 | 0.94414163 |
-|  82 | WSN |                 Andre_Granillo |    0.2 |   1.0 | 0.94414163 |
-|  82 | ATH |                 Justin_Sterner |    0.2 |   1.0 | 0.94414163 |
-|  83 | PHI |                  Jesús_Luzardo |    6.0 |   6.0 | 0.95342051 |
-|  84 | TEX |                 Nathan_Eovaldi |    4.2 |   5.0 | 0.95547080 |
-|  85 | ARI |                   Juan_Morillo |    1.2 |   2.5 | 0.95787007 |
-|  85 | PIT |                  Isaac_Mattson |    1.2 |   2.5 | 0.95787007 |
-|  86 | SEA |                    Gabe_Speier |    1.1 |   2.0 | 0.95788764 |
-|  87 | HOU |                Cristian_Javier |    4.2 |   5.5 | 0.96901085 |
-|  88 | LAA |                  Drew_Pomeranz |    2.0 |   3.0 | 0.97075916 |
-|  89 | PHI |                   Kyle_Backhus |    1.1 |   2.5 | 0.97378719 |
-|  89 | CHW |                   Chris_Murphy |    1.1 |   2.5 | 0.97378719 |
-|  90 | LAA |               Jack_Kochanowicz |    4.0 |   5.0 | 0.97387388 |
-|  91 | CHW |                  Tyler_Gilbert |    1.0 |   2.0 | 0.97645080 |
-|  91 | COL |                  Victor_Vodnik |    1.0 |   2.0 | 0.97645080 |
-|  92 | WSN |                  Miles_Mikolas |    5.0 |   6.0 | 0.97699992 |
-|  93 | TOR |                 Mason_Fluharty |    0.1 |   1.0 | 0.97941102 |
-|  94 | HOU |                   Tatsuya_Imai |    2.2 |   4.0 | 0.98001628 |
-|  95 | CHW |                   Jordan_Hicks |    1.0 |   2.5 | 0.98573237 |
-|  96 | MIN |                      Mick_Abel |    3.1 |   5.0 | 0.98638134 |
-|  97 | CLE |                  Slade_Cecconi |    4.1 |   6.0 | 0.98708755 |
-|  98 | CHC |                   Matthew_Boyd |    3.2 |   5.5 | 0.98717225 |
-|  99 | CHW |                  Jedixson_Paez |    1.2 |   3.5 | 0.98854100 |
-|  99 | BOS |                  Greg_Weissert |    1.2 |   3.5 | 0.98854100 |
-| 100 | TEX |                   Chris_Martin |    0.2 |   2.0 | 0.98945458 |
-| 101 | WSN |                  Ken_Waldichuk |    1.1 |   3.0 | 0.98968675 |
-| 102 | STL |                     Dustin_May |    4.0 |   6.0 | 0.99071157 |
-| 103 | SFG |                     Logan_Webb |    5.0 |   7.0 | 0.99126336 |
-| 104 | HOU |                    Bryan_Abreu |    1.1 |   3.5 | 0.99367920 |
-| 104 | CHW |           Seranthony_Domínguez |    1.1 |   3.5 | 0.99367920 |
-| 105 | SDP |               Jeremiah_Estrada |    0.2 |   2.5 | 0.99378918 |
-| 106 | STL |                   Matt_Pushard |    1.0 |   3.0 | 0.99501395 |
-| 106 | TBR |                  Mason_Englert |    1.0 |   3.0 | 0.99501395 |
-| 106 | PIT |                   Hunter_Barco |    1.0 |   3.0 | 0.99501395 |
-| 107 | CHW |                    Shane_Smith |    1.2 |   4.0 | 0.99538017 |
-| 108 | STL |                   Matt_Svanson |    1.0 |   3.5 | 0.99701165 |
-| 108 | TBR |                    Griffin_Jax |    1.0 |   3.5 | 0.99701165 |
-| 109 | SDP |                   Nick_Pivetta |    3.0 |   6.0 | 0.99721829 |
-| 110 | STL |                 Chris_Roycroft |    1.1 |   4.5 | 0.99858826 |
-| 111 | MIL |                 Brandon_Sproat |    3.0 |   7.0 | 0.99921755 |
-| 112 | LAA |                  Walbert_Ureña |    1.2 |   5.5 | 0.99933544 |
-| 113 | LAA |                  Joey_Lucchesi |    0.1 |   3.0 | 0.99957609 |
-| 114 | TOR |                 Brendon_Little |    0.2 |   4.0 | 0.99967868 |
-| 115 | ARI |                  Taylor_Clarke |    0.1 |   4.0 | 0.99993917 |
-| 116 | PIT |                    Paul_Skenes |    0.2 |   5.0 | 0.99994642 |
-| 117 | KCR |                 Carlos_Estévez |    0.1 |   6.0 | 0.99999875 |
-| 118 | TBR |                    Ian_Seymour |    0.0 |   4.5 | 1.00000000 |
+| Rank  |  Tier  |  Team  | Picther  |  IP  | DivR  |   Suppression   |
+| ----: | :----: | :----: | -------: | ---: | ----: | --------------: |
+|     | S | --- |     [Bernoulli-Dummy-S-IP9-R0] |    9.0 |   0.0 | 0.01526845 |
+|   1 | A | BAL |                  Trevor_Rogers |    7.0 |   0.0 | 0.03867194 |
+|   2 | A | NYY |                      Max_Fried |    6.1 |   0.0 | 0.05271445 |
+|   2 | A | KCR |                      Seth_Lugo |    6.1 |   0.0 | 0.05271445 |
+|   3 | A | PIT |                   Mitch_Keller |    6.0 |   0.0 | 0.06154554 |
+|   3 | A | KCR |                  Michael_Wacha |    6.0 |   0.0 | 0.06154554 |
+|   3 | A | PHI |             Cristopher_Sánchez |    6.0 |   0.0 | 0.06154554 |
+|   3 | A | STL |               Michael_McGreevy |    6.0 |   0.0 | 0.06154554 |
+|   3 | A | BOS |                Garrett_Crochet |    6.0 |   0.0 | 0.06154554 |
+|   3 | A | ATL |                     Chris_Sale |    6.0 |   0.0 | 0.06154554 |
+|   3 | A | SDP |                  Randy_Vásquez |    6.0 |   0.0 | 0.06154554 |
+|   3 | A | CIN |                  Andrew_Abbott |    6.0 |   0.0 | 0.06154554 |
+|   3 | A | LAA |                   José_Soriano |    6.0 |   0.0 | 0.06154554 |
+|   3 | A | SEA |                Emerson_Hancock |    6.0 |   0.0 | 0.06154554 |
+|   4 | A | NYY |                 Cam_Schlittler |    5.1 |   0.0 | 0.08389388 |
+|   4 | A | MIN |                       Joe_Ryan |    5.1 |   0.0 | 0.08389388 |
+|   4 | A | NYM |                 David_Peterson |    5.1 |   0.0 | 0.08389388 |
+|     | A | --- |     [Bernoulli-Dummy-A-IP8-R1] |    8.0 |   1.0 | 0.10797986 |
+|   5 | B | HOU |                   Hunter_Brown |    4.2 |   0.0 | 0.11435733 |
+|   6 | B | MIA |                Sandy_Alcantara |    7.0 |   1.0 | 0.15520060 |
+|   7 | B | TEX |                     Jacob_Latz |    4.0 |   0.0 | 0.15588263 |
+|   7 | B | PIT |                  Yohan_Ramírez |    4.0 |   0.0 | 0.15588263 |
+|   8 | B | BOS |                 Connelly_Early |    5.1 |   0.5 | 0.18019641 |
+|   9 | B | ARI |              Eduardo_Rodríguez |    5.0 |   0.5 | 0.20335690 |
+|   9 | B | SDP |                   Michael_King |    5.0 |   0.5 | 0.20335690 |
+|  10 | B | SEA |                   George_Kirby |    6.0 |   1.0 | 0.22050504 |
+|  10 | B | TOR |                  Kevin_Gausman |    6.0 |   1.0 | 0.22050504 |
+|  10 | B | DET |                   Tarik_Skubal |    6.0 |   1.0 | 0.22050504 |
+|  10 | B | ATL |                 Reynaldo_López |    6.0 |   1.0 | 0.22050504 |
+|  11 | B | LAA |                    Sam_Bachman |    3.0 |   0.0 | 0.24808373 |
+|  11 | B | MIL |                 Grant_Anderson |    3.0 |   0.0 | 0.24808373 |
+|  11 | B | PIT |                 Dennis_Santana |    3.0 |   0.0 | 0.24808373 |
+|  12 | B | TOR |                    Dylan_Cease |    5.1 |   1.0 | 0.27649894 |
+|  13 | B | COL |              Antonio_Senzatela |    2.2 |   0.0 | 0.28964441 |
+|  13 | B | HOU |                   Steven_Okert |    2.2 |   0.0 | 0.28964441 |
+|  13 | B | MIL |                    Aaron_Ashby |    2.2 |   0.0 | 0.28964441 |
+|  14 | B | TBR |                 Drew_Rasmussen |    5.0 |   1.0 | 0.30876545 |
+|  14 | B | STL |             Matthew_Liberatore |    5.0 |   1.0 | 0.30876545 |
+|  14 | B | MIL |              Jacob_Misiorowski |    5.0 |   1.0 | 0.30876545 |
+|  15 | B | ATH |                      J.T._Ginn |    3.2 |   0.5 | 0.32562699 |
+|  16 | B | STL |                  Riley_O'Brien |    2.1 |   0.0 | 0.33816760 |
+|  16 | B | TOR |                 Braydon_Fisher |    2.1 |   0.0 | 0.33816760 |
+|  16 | B | NYY |                       Tim_Hill |    2.1 |   0.0 | 0.33816760 |
+|  16 | B | PIT |                   Gregory_Soto |    2.1 |   0.0 | 0.33816760 |
+|  16 | B | NYM |               Huascar_Brazobán |    2.1 |   0.0 | 0.33816760 |
+|  16 | B | DET |                 Connor_Seabold |    2.1 |   0.0 | 0.33816760 |
+|  16 | B | SFG |                    JT_Brubaker |    2.1 |   0.0 | 0.33816760 |
+|  16 | B | NYY |                      Jake_Bird |    2.1 |   0.0 | 0.33816760 |
+|  16 | B | TEX |                    Jalen_Beeks |    2.1 |   0.0 | 0.33816760 |
+|  16 | B | BOS |                    Ryan_Watson |    2.1 |   0.0 | 0.33816760 |
+|     | B | --- |     [Bernoulli-Dummy-B-IP7-R2] |    7.0 |   2.0 | 0.33912647 |
+|  17 | C | MIN |                    Taj_Bradley |    4.1 |   1.0 | 0.38256817 |
+|  17 | C | MIL |                   Chad_Patrick |    4.1 |   1.0 | 0.38256817 |
+|  17 | C | HOU |                    AJ_Blubaugh |    4.1 |   1.0 | 0.38256817 |
+|  17 | C | NYY |                    Will_Warren |    4.1 |   1.0 | 0.38256817 |
+|  18 | C | ATH |                Jeffrey_Springs |    5.1 |   1.5 | 0.39395463 |
+|  18 | C | TEX |                 MacKenzie_Gore |    5.1 |   1.5 | 0.39395463 |
+|  19 | C | SEA |                 Casey_Legumina |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | SDP |                   David_Morgan |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | TBR |                    Bryan_Baker |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | SFG |                      Matt_Gage |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | LAA |                 Ryan_Zeferjahn |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | SFG |                    Keaton_Winn |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | BAL |                  Anthony_Nunez |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | LAA |                    Brent_Suter |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | ATL |                      Dylan_Lee |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | BOS |                Aroldis_Chapman |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | ARI |                  Ryan_Thompson |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | LAD |                     Edwin_Díaz |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | BAL |                   Ryan_Helsley |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | TBR |                 Yoendrys_Gómez |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | LAD |                     Will_Klein |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | MIA |                 Pete_Fairbanks |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | TOR |                   Tyler_Rogers |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | CLE |                 Erik_Sabrowski |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | SDP |             Bradgley_Rodriguez |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | BOS |               Garrett_Whitlock |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | NYY |                   David_Bednar |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | CIN |                       Sam_Moll |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | MIA |                 Tyler_Phillips |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | MIL |                        DL_Hall |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | BOS |                   Jovani_Morán |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | SDP |                      Kyle_Hart |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | KCR |                    Lucas_Erceg |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | WSN |                 Clayton_Beeter |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | LAD |                     Alex_Vesia |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | PHI |                      Tim_Mayza |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | COL |                   Jimmy_Herget |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | LAA |                  Jordan_Romano |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | TEX |                    Jakob_Junis |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | NYM |                    Luke_Weaver |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | TOR |                    Tommy_Nance |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | CIN |                 Tony_Santillan |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | COL |                     Juan_Mejia |    2.0 |   0.0 | 0.39481974 |
+|  19 | C | NYY |                   Camilo_Doval |    2.0 |   0.0 | 0.39481974 |
+|  20 | C | CHC |                    Cade_Horton |    6.1 |   2.0 | 0.40264302 |
+|  21 | C | ATL |                 Didier_Fuentes |    4.0 |   1.0 | 0.42429120 |
+|  21 | C | SEA |                Cooper_Criswell |    4.0 |   1.0 | 0.42429120 |
+|  22 | C | LAD |             Yoshinobu_Yamamoto |    6.0 |   2.0 | 0.43718939 |
+|  22 | C | DET |                 Framber_Valdez |    6.0 |   2.0 | 0.43718939 |
+|  22 | C | TBR |                      Joe_Boyle |    6.0 |   2.0 | 0.43718939 |
+|  22 | C | LAD |                  Tyler_Glasnow |    6.0 |   2.0 | 0.43718939 |
+|  22 | C | SEA |                      Bryan_Woo |    6.0 |   2.0 | 0.43718939 |
+|  23 | C | ATH |                   Scott_Barlow |    2.2 |   0.5 | 0.45588710 |
+|  24 | C | SFG |                    Erik_Miller |    1.2 |   0.0 | 0.46096263 |
+|  24 | C | NYY |                 Brent_Headrick |    1.2 |   0.0 | 0.46096263 |
+|  24 | C | ARI |                Andrew_Hoffmann |    1.2 |   0.0 | 0.46096263 |
+|  24 | C | STL |                    JoJo_Romero |    1.2 |   0.0 | 0.46096263 |
+|  24 | C | KCR |                    Matt_Strahm |    1.2 |   0.0 | 0.46096263 |
+|  24 | C | WSN |                      PJ_Poulin |    1.2 |   0.0 | 0.46096263 |
+|  24 | C | CLE |                     Matt_Festa |    1.2 |   0.0 | 0.46096263 |
+|  25 | C | CLE |                Peyton_Pallette |    3.2 |   1.0 | 0.46925683 |
+|  26 | C | ARI |              Jonathan_Loáisiga |    2.1 |   0.5 | 0.50799880 |
+|  26 | C | HOU |                   Kai-Wei_Teng |    2.1 |   0.5 | 0.50799880 |
+|  27 | C | TOR |                     Eric_Lauer |    5.1 |   2.0 | 0.51141032 |
+|  27 | C | SFG |                     Robbie_Ray |    5.1 |   2.0 | 0.51141032 |
+|  28 | C | NYM |                    Sean_Manaea |    1.1 |   0.0 | 0.53818622 |
+|  28 | C | LAD |                   Tanner_Scott |    1.1 |   0.0 | 0.53818622 |
+|  28 | C | COL |                     Zach_Agnos |    1.1 |   0.0 | 0.53818622 |
+|  28 | C | MIN |                      Eric_Orze |    1.1 |   0.0 | 0.53818622 |
+|  28 | C | MIN |                  Anthony_Banda |    1.1 |   0.0 | 0.53818622 |
+|  28 | C | SFG |                    Ryan_Walker |    1.1 |   0.0 | 0.53818622 |
+|  28 | C | DET |                      Will_Vest |    1.1 |   0.0 | 0.53818622 |
+|  28 | C | WSN |                    Gus_Varland |    1.1 |   0.0 | 0.53818622 |
+|  29 | C | MIA |                     Eury_Pérez |    7.0 |   3.0 | 0.54145953 |
+|  30 | C | ATH |                  Luis_Severino |    5.0 |   2.0 | 0.55076427 |
+|  30 | C | WSN |                     Jake_Irvin |    5.0 |   2.0 | 0.55076427 |
+|  30 | C | CIN |                   Rhett_Lowder |    5.0 |   2.0 | 0.55076427 |
+|  30 | C | NYM |                   Nolan_McLean |    5.0 |   2.0 | 0.55076427 |
+|  31 | C | TOR |                  Louis_Varland |    2.0 |   0.5 | 0.56477615 |
+|  31 | C | SDP |                 Adrián_Morejón |    2.0 |   0.5 | 0.56477615 |
+|  31 | C | TEX |                Tyler_Alexander |    2.0 |   0.5 | 0.56477615 |
+|  32 | C | NYM |                   Tobias_Myers |    3.0 |   1.0 | 0.56845844 |
+|  32 | C | MIL |                  Jake_Woodford |    3.0 |   1.0 | 0.56845844 |
+|  33 | C | CHW |                    Anthony_Kay |    4.2 |   2.0 | 0.59130556 |
+|  34 | C | TEX |                 Carter_Baumler |    2.2 |   1.0 | 0.62212979 |
+|  35 | C | TEX |                      Cole_Winn |    1.2 |   0.5 | 0.62631984 |
+|  35 | C | CHC |                     Phil_Maton |    1.2 |   0.5 | 0.62631984 |
+|  35 | C | CIN |                    Brock_Burke |    1.2 |   0.5 | 0.62631984 |
+|  36 | C | DET |                  Kenley_Jansen |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | MIN |                     Cole_Sands |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | SFG |                   Caleb_Kilian |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | ARI |                       Joe_Ross |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | WSN |                     Cole_Henry |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | CHC |                 Caleb_Thielbar |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | KCR |                     Alex_Lange |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | MIL |                    Abner_Uribe |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | MIA |                      John_King |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | TOR |                  Spencer_Miles |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | PHI |                Jonathan_Bowlan |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | MIA |                 Calvin_Faucher |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | DET |                  Kyle_Finnegan |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | TBR |                    Kevin_Kelly |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | PHI |                  José_Alvarado |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | MIN |                  Taylor_Rogers |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | PHI |                   Tanner_Banks |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | SEA |                    Cole_Wilcox |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | SDP |                   Mason_Miller |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | PHI |                    Brad_Keller |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | MIA |               Michael_Petersen |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | ATL |                  Robert_Suarez |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | CHC |                  Hunter_Harvey |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | COL |             Brennan_Bernardino |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | LAD |              Edgardo_Henriquez |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | ATL |                   Osvaldo_Bido |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | BAL |                  Grant_Wolfram |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | LAD |                  Blake_Treinen |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | STL |                 George_Soriano |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | NYM |                   Brooks_Raley |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | NYM |                 Devin_Williams |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | MIL |                  Trevor_Megill |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | CHC |                Daniel_Palencia |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | DET |              Enmanuel_De_Jesus |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | ATL |                   Tyler_Kinley |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | MIL |                   Jared_Koenig |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | SEA |                     Matt_Brash |    1.0 |   0.0 | 0.62834683 |
+|  36 | C | MIL |                    Angel_Zerpa |    1.0 |   0.0 | 0.62834683 |
+|  37 | C | LAA |                  Yusei_Kikuchi |    4.1 |   2.0 | 0.63272197 |
+|  37 | C | COL |                  Jose_Quintana |    4.1 |   2.0 | 0.63272197 |
+|  37 | C | PIT |              Carmen_Mlodzinski |    4.1 |   2.0 | 0.63272197 |
+|  37 | C | COL |                  Kyle_Freeland |    4.1 |   2.0 | 0.63272197 |
+|     | C | --- |     [Bernoulli-Dummy-C-IP6-R3] |    6.0 |   3.0 | 0.64446763 |
+|  38 | D | SFG |                    Tyler_Mahle |    4.0 |   2.0 | 0.67462943 |
+|  39 | D | WSN |                      Brad_Lord |    2.1 |   1.0 | 0.67783000 |
+|  39 | D | CHW |                 Jordan_Leasure |    2.1 |   1.0 | 0.67783000 |
+|  39 | D | CIN |                   Emilio_Pagán |    2.1 |   1.0 | 0.67783000 |
+|  40 | D | LAA |                   Reid_Detmers |    4.2 |   2.5 | 0.68590189 |
+|  41 | D | MIN |                Kody_Funderburk |    1.1 |   0.5 | 0.69263340 |
+|  41 | D | BOS |                  Justin_Slaten |    1.1 |   0.5 | 0.69263340 |
+|  42 | D | SEA |                  Logan_Gilbert |    5.1 |   3.0 | 0.71365296 |
+|  43 | D | CLE |                  Joey_Cantillo |    3.2 |   2.0 | 0.71656779 |
+|  44 | D | DET |                  Jack_Flaherty |    4.1 |   2.5 | 0.72245752 |
+|  45 | D | HOU |                     Bryan_King |    2.2 |   1.5 | 0.72947249 |
+|  45 | D | CIN |                Connor_Phillips |    2.2 |   1.5 | 0.72947249 |
+|  46 | D | BAL |                   Yennier_Cano |    0.2 |   0.0 | 0.73361176 |
+|  46 | D | LAD |                  Ben_Casparius |    0.2 |   0.0 | 0.73361176 |
+|  46 | D | SEA |                 Jose_A._Ferrer |    0.2 |   0.0 | 0.73361176 |
+|  46 | D | NYY |                  Fernando_Cruz |    0.2 |   0.0 | 0.73361176 |
+|  46 | D | BOS |                 Danny_Coulombe |    0.2 |   0.0 | 0.73361176 |
+|  46 | D | MIA |                   Andrew_Nardi |    0.2 |   0.0 | 0.73361176 |
+|  46 | D | DET |                   Tyler_Holton |    0.2 |   0.0 | 0.73361176 |
+|  46 | D | CLE |                     Tim_Herrin |    0.2 |   0.0 | 0.73361176 |
+|  47 | D | CLE |                Shawn_Armstrong |    2.0 |   1.0 | 0.73473255 |
+|  47 | D | ATH |                   Hogan_Harris |    2.0 |   1.0 | 0.73473255 |
+|  47 | D | TOR |                   Jeff_Hoffman |    2.0 |   1.0 | 0.73473255 |
+|  47 | D | WSN |                   Cionel_Pérez |    2.0 |   1.0 | 0.73473255 |
+|  47 | D | CHW |                   Grant_Taylor |    2.0 |   1.0 | 0.73473255 |
+|  47 | D | LAA |                  Chase_Silseth |    2.0 |   1.0 | 0.73473255 |
+|  47 | D | CLE |                     Cade_Smith |    2.0 |   1.0 | 0.73473255 |
+|  48 | D | PHI |                     Aaron_Nola |    5.0 |   3.0 | 0.74753402 |
+|  48 | D | CLE |                 Gavin_Williams |    5.0 |   3.0 | 0.74753402 |
+|  48 | D | MIA |                      Max_Meyer |    5.0 |   3.0 | 0.74753402 |
+|  48 | D | CLE |                   Tanner_Bibee |    5.0 |   3.0 | 0.74753402 |
+|  48 | D | ATL |                   Grant_Holmes |    5.0 |   3.0 | 0.74753402 |
+|  49 | D | DET |                   Brant_Hurter |    1.0 |   0.5 | 0.76358775 |
+|  49 | D | PIT |                   José_Urquidy |    1.0 |   0.5 | 0.76358775 |
+|  50 | D | PIT |               Mason_Montgomery |    2.1 |   1.5 | 0.77530537 |
+|  51 | D | BAL |                   Kyle_Bradish |    4.2 |   3.0 | 0.78049823 |
+|  52 | D | CIN |                Graham_Ashcraft |    1.2 |   1.0 | 0.79167706 |
+|  52 | D | CIN |                 Pierce_Johnson |    1.2 |   1.0 | 0.79167706 |
+|  52 | D | LAD |                    Jack_Dreyer |    1.2 |   1.0 | 0.79167706 |
+|  52 | D | COL |                     Jaden_Hill |    1.2 |   1.0 | 0.79167706 |
+|  52 | D | SFG |                   Ryan_Borucki |    1.2 |   1.0 | 0.79167706 |
+|  52 | D | SEA |                 Eduard_Bazardo |    1.2 |   1.0 | 0.79167706 |
+|  52 | D | BAL |                  Dietrich_Enns |    1.2 |   1.0 | 0.79167706 |
+|  52 | D | TEX |                  Robert_Garcia |    1.2 |   1.0 | 0.79167706 |
+|  53 | D | KCR |                  Bailey_Falter |    3.0 |   2.0 | 0.79830905 |
+|  54 | D | CHC |                  Shota_Imanaga |    5.0 |   3.5 | 0.81106101 |
+|  55 | D | COL |               Michael_Lorenzen |    4.1 |   3.0 | 0.81219307 |
+|  56 | D | MIN |                    Justin_Topa |    2.0 |   1.5 | 0.82008638 |
+|  56 | D | CLE |                 Connor_Brogdon |    2.0 |   1.5 | 0.82008638 |
+|  57 | D | CHC |                      Ben_Brown |    3.1 |   2.5 | 0.82705102 |
+|  58 | D | HOU |                  Roddery_Muñoz |    2.2 |   2.0 | 0.83681518 |
+|  59 | D | ATL |                   Aaron_Bummer |    0.2 |   0.5 | 0.83887669 |
+|  60 | D | MIN |                    Bailey_Ober |    4.0 |   3.0 | 0.84225929 |
+|  60 | D | CIN |                   Brady_Singer |    4.0 |   3.0 | 0.84225929 |
+|  61 | D | HOU |                  Christian_Roa |    1.1 |   1.0 | 0.84708059 |
+|  61 | D | DET |                  Drew_Anderson |    1.1 |   1.0 | 0.84708059 |
+|  61 | D | ATH |                  Michael_Kelly |    1.1 |   1.0 | 0.84708059 |
+|  62 | D | BAL |                      Shane_Baz |    5.1 |   4.0 | 0.85149566 |
+|  63 | D | BAL |                    Rico_Garcia |    0.1 |   0.0 | 0.85651139 |
+|  63 | D | ARI |                    Paul_Sewald |    0.1 |   0.0 | 0.85651139 |
+|  63 | D | MIA |                 Anthony_Bender |    0.1 |   0.0 | 0.85651139 |
+|  64 | D | WSN |                   Cade_Cavalli |    3.2 |   3.0 | 0.87034178 |
+|  65 | D | CHW |                   Sean_Newcomb |    2.1 |   2.0 | 0.87278074 |
+|  65 | D | STL |                  Justin_Bruihl |    2.1 |   2.0 | 0.87278074 |
+|  66 | D | TBR |                    Steven_Matz |    5.0 |   4.0 | 0.87458800 |
+|  66 | D | NYM |                 Freddy_Peralta |    5.0 |   4.0 | 0.87458800 |
+|  67 | D | ARI |                     Zac_Gallen |    4.0 |   3.5 | 0.88735862 |
+|  68 | D | ARI |                    Ryne_Nelson |    4.2 |   4.0 | 0.89587295 |
+|  69 | D | LAD |                  Emmet_Sheehan |    3.1 |   3.0 | 0.89610305 |
+|  70 | D | KCR |                 John_Schreiber |    1.0 |   1.0 | 0.89882867 |
+|  70 | D | ARI |                   Kevin_Ginkel |    1.0 |   1.0 | 0.89882867 |
+|  70 | D | HOU |                     Ryan_Weiss |    1.0 |   1.0 | 0.89882867 |
+|  71 | D | TBR |             Garrett_Cleavinger |    1.1 |   1.5 | 0.90248411 |
+|  71 | D | SDP |                  Wandy_Peralta |    1.1 |   1.5 | 0.90248411 |
+|  72 | D | PHI |                       Zach_Pop |    2.0 |   2.0 | 0.90544021 |
+|  72 | D | SDP |                 Ron_Marinaccio |    2.0 |   2.0 | 0.90544021 |
+|  72 | D | CHC |                    Hoby_Milner |    2.0 |   2.0 | 0.90544021 |
+|  72 | D | NYM |               Richard_Lovelady |    2.0 |   2.0 | 0.90544021 |
+|  72 | D | TBR |                    Cole_Sulser |    2.0 |   2.0 | 0.90544021 |
+|  72 | D | CHC |                     Jacob_Webb |    2.0 |   2.0 | 0.90544021 |
+|  73 | D | STL |                    Ryne_Stanek |    2.1 |   2.5 | 0.91474055 |
+|  74 | D | HOU |                   Mike_Burrows |    5.2 |   5.0 | 0.91571137 |
+|  75 | D | ATL |                   Joel_Payamps |    0.1 |   0.5 | 0.91796120 |
+|  75 | D | ATH |                    Luis_Medina |    0.1 |   0.5 | 0.91796120 |
+|  76 | D | CLE |                Colin_Holderman |    3.0 |   3.0 | 0.91923917 |
+|  77 | D | CHW |                     Sean_Burke |    4.0 |   4.0 | 0.93245795 |
+|  77 | D | KCR |                    Cole_Ragans |    4.0 |   4.0 | 0.93245795 |
+|  77 | D | BOS |                     Sonny_Gray |    4.0 |   4.0 | 0.93245795 |
+|  78 | D | PHI |                    Jhoan_Duran |    1.2 |   2.0 | 0.93403832 |
+|  78 | D | BAL |                    Tyler_Wells |    1.2 |   2.0 | 0.93403832 |
+|  78 | D | PIT |                Justin_Lawrence |    1.2 |   2.0 | 0.93403832 |
+|  79 | D | ATH |                 Elvis_Alvarado |    1.0 |   1.5 | 0.93763973 |
+|  80 | D | SEA |                   Andrés_Muñoz |    2.0 |   2.5 | 0.93809968 |
+|  80 | D | NYM |                    Luis_García |    2.0 |   2.5 | 0.93809968 |
+|  81 | D | ATH |                   Luis_Morales |    4.1 |   4.5 | 0.94032817 |
+|  82 | D | CHW |                   Bryan_Hudson |    0.2 |   1.0 | 0.94414163 |
+|  82 | D | ATH |                Mark_Leiter_Jr. |    0.2 |   1.0 | 0.94414163 |
+|  82 | D | SFG |                     José_Buttó |    0.2 |   1.0 | 0.94414163 |
+|  82 | D | BAL |                Yaramil_Hiraldo |    0.2 |   1.0 | 0.94414163 |
+|  82 | D | WSN |                 Andre_Granillo |    0.2 |   1.0 | 0.94414163 |
+|  82 | D | ATH |                 Justin_Sterner |    0.2 |   1.0 | 0.94414163 |
+|  83 | D | PHI |                  Jesús_Luzardo |    6.0 |   6.0 | 0.95342051 |
+|  84 | D | TEX |                 Nathan_Eovaldi |    4.2 |   5.0 | 0.95547080 |
+|  85 | D | ARI |                   Juan_Morillo |    1.2 |   2.5 | 0.95787007 |
+|  85 | D | PIT |                  Isaac_Mattson |    1.2 |   2.5 | 0.95787007 |
+|  86 | D | SEA |                    Gabe_Speier |    1.1 |   2.0 | 0.95788764 |
+|  87 | D | HOU |                Cristian_Javier |    4.2 |   5.5 | 0.96901085 |
+|  88 | D | LAA |                  Drew_Pomeranz |    2.0 |   3.0 | 0.97075916 |
+|  89 | D | PHI |                   Kyle_Backhus |    1.1 |   2.5 | 0.97378719 |
+|  89 | D | CHW |                   Chris_Murphy |    1.1 |   2.5 | 0.97378719 |
+|  90 | D | LAA |               Jack_Kochanowicz |    4.0 |   5.0 | 0.97387388 |
+|  91 | D | CHW |                  Tyler_Gilbert |    1.0 |   2.0 | 0.97645080 |
+|  91 | D | COL |                  Victor_Vodnik |    1.0 |   2.0 | 0.97645080 |
+|  92 | D | WSN |                  Miles_Mikolas |    5.0 |   6.0 | 0.97699992 |
+|  93 | D | TOR |                 Mason_Fluharty |    0.1 |   1.0 | 0.97941102 |
+|  94 | D | HOU |                   Tatsuya_Imai |    2.2 |   4.0 | 0.98001628 |
+|  95 | D | CHW |                   Jordan_Hicks |    1.0 |   2.5 | 0.98573237 |
+|  96 | D | MIN |                      Mick_Abel |    3.1 |   5.0 | 0.98638134 |
+|  97 | D | CLE |                  Slade_Cecconi |    4.1 |   6.0 | 0.98708755 |
+|  98 | D | CHC |                   Matthew_Boyd |    3.2 |   5.5 | 0.98717225 |
+|  99 | D | CHW |                  Jedixson_Paez |    1.2 |   3.5 | 0.98854100 |
+|  99 | D | BOS |                  Greg_Weissert |    1.2 |   3.5 | 0.98854100 |
+| 100 | D | TEX |                   Chris_Martin |    0.2 |   2.0 | 0.98945458 |
+| 101 | D | WSN |                  Ken_Waldichuk |    1.1 |   3.0 | 0.98968675 |
+| 102 | D | STL |                     Dustin_May |    4.0 |   6.0 | 0.99071157 |
+| 103 | D | SFG |                     Logan_Webb |    5.0 |   7.0 | 0.99126336 |
+| 104 | D | HOU |                    Bryan_Abreu |    1.1 |   3.5 | 0.99367920 |
+| 104 | D | CHW |           Seranthony_Domínguez |    1.1 |   3.5 | 0.99367920 |
+| 105 | D | SDP |               Jeremiah_Estrada |    0.2 |   2.5 | 0.99378918 |
+| 106 | D | STL |                   Matt_Pushard |    1.0 |   3.0 | 0.99501395 |
+| 106 | D | TBR |                  Mason_Englert |    1.0 |   3.0 | 0.99501395 |
+| 106 | D | PIT |                   Hunter_Barco |    1.0 |   3.0 | 0.99501395 |
+| 107 | D | CHW |                    Shane_Smith |    1.2 |   4.0 | 0.99538017 |
+| 108 | D | STL |                   Matt_Svanson |    1.0 |   3.5 | 0.99701165 |
+| 108 | D | TBR |                    Griffin_Jax |    1.0 |   3.5 | 0.99701165 |
+| 109 | D | SDP |                   Nick_Pivetta |    3.0 |   6.0 | 0.99721829 |
+| 110 | D | STL |                 Chris_Roycroft |    1.1 |   4.5 | 0.99858826 |
+| 111 | D | MIL |                 Brandon_Sproat |    3.0 |   7.0 | 0.99921755 |
+| 112 | D | LAA |                  Walbert_Ureña |    1.2 |   5.5 | 0.99933544 |
+| 113 | D | LAA |                  Joey_Lucchesi |    0.1 |   3.0 | 0.99957609 |
+| 114 | D | TOR |                 Brendon_Little |    0.2 |   4.0 | 0.99967868 |
+| 115 | D | ARI |                  Taylor_Clarke |    0.1 |   4.0 | 0.99993917 |
+| 116 | D | PIT |                    Paul_Skenes |    0.2 |   5.0 | 0.99994642 |
+| 117 | D | KCR |                 Carlos_Estévez |    0.1 |   6.0 | 0.99999875 |
+| 118 | D | TBR |                    Ian_Seymour |    0.0 |   4.5 | 1.00000000 |
 
 ## Data Disclosure
 The rankings generated by this model are derived from **play-by-play data** sourced from [Baseball-Reference](https://www.baseball-reference.com/).
