@@ -2,15 +2,15 @@
 Daily MLB pitcher rankings throughout the 2026 season, based on a Bernoulli-style run suppression model.
 
 
+## Highlight
+S-tier has officially appeared: Max Fried and José Soriano became the first pitchers to clear the Bernoulli S-line.
+
+
 ## Glossary
 - **Tier**: assigned by comparison to Bernoulli dummy pitchers, which serve as fixed reference thresholds for the S/A/B/C/D bands.
 - **IP**: innings pitched.
 - **DivR**: divided runs allowed; each scored run is split 50/50 between the pitcher who put the runner on base and the pitcher who allowed the runner to score.
 - **Suppression**: how rare the pitcher’s IP-and-DivR line is under the Bernoulli pitcher model. Lower is better.
-
-
-### Highlight
-S-tier has officially appeared: Max Fried and José Soriano became the first pitchers to clear the Bernoulli S-line.
 
 
 Created on: 2026-03-31; MLB totals: 655.0 runs, 1347.0 IP.
