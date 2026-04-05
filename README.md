@@ -12,6 +12,7 @@ This version introduces **Zen**, **Drama**, and **Meltdown** percentages. Th
 - **DivR**: divided runs allowed; each scored run is split 50/50 between the pitcher who put the runner on base and the pitcher who allowed the runner to score.
 - **Suppression**: how rare the pitcher’s IP-and-DivR line is under the Bernoulli pitcher model. Lower is better.
 - **Zen / Drama / Meltdown**: three entropy-based states. **Zen** is the calm, dominant state; **Drama** is the unstable, heart-attack, don’t-throw-the-TV state; **Meltdown** is the breakdown state, where runs are already written into the outcome.
+- **(GHOST)**: A pseudo-pitcher used to account for runs scored by the automatic ghost runner in extra innings.
 
 
 Created on: 2026-04-04; MLB totals: 1067.0 runs, 2179.0 IP.
