@@ -7,11 +7,11 @@ This version introduces **Zen**, **Drama**, and **Meltdown** percentages. Th
 
 
 ## Glossary
-- **Tier**: assigned by comparison to Bernoulli dummy pitchers, which serve as fixed reference thresholds for the S/A/B/C/D bands.
-- **IP**: innings pitched.
-- **DivR**: divided runs allowed; each scored run is split 50/50 between the pitcher who put the runner on base and the pitcher who allowed the runner to score.
-- **Suppression**: how rare the pitcher’s IP-and-DivR line is under the Bernoulli pitcher model. Lower is better.
-- **Zen / Drama / Meltdown**: three entropy-based states. **Zen** is the calm, dominant state; **Drama** is the unstable, heart-attack, don’t-throw-the-TV state; **Meltdown** is the breakdown state, where runs are already written into the outcome.
+- **Tier**: Assigned by comparison to Bernoulli dummy pitchers, which serve as fixed reference thresholds for the S/A/B/C/D bands.
+- **IP**: Innings pitched.
+- **DivR**: Divided runs allowed; each scored run is split 50/50 between the pitcher who put the runner on base and the pitcher who allowed the runner to score.
+- **Suppression**: How rare the pitcher’s IP-and-DivR line is under the Bernoulli pitcher model. Lower is better.
+- **Zen / Drama / Meltdown**: Three entropy-based states. **Zen** is the calm, dominant state; **Drama** is the unstable, heart-attack, don’t-throw-the-TV state; **Meltdown** is the breakdown state, where runs are already written into the outcome.
 - **(GHOST)**: A pseudo-pitcher used to account for runs scored by the automatic ghost runner in extra innings.
 
 
