@@ -3,7 +3,7 @@ Daily MLB pitcher rankings throughout the 2026 season, based on a Bernoulli-styl
 
 
 ## Highlight: Entropy State Integration
-This version introduces **Zen**, **Drama**, and **Meltdown** percentages. These metrics leverage entropy statistics to describe the "state" of the Bernoulli model at any given point, providing a clearer picture of pitcher stability vs. volatility throughout the 2026 season.
+This version introduces **Zen**, **Drama**, and **Meltdown** percentages. These metrics leverage entropy statistics to describe the state of the Bernoulli model at any given point, providing a clearer picture of pitcher stability vs. volatility throughout the 2026 season.
 
 
 ## Glossary
