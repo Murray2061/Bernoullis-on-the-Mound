@@ -2,11 +2,11 @@
 Daily MLB pitcher rankings throughout the 2026 season, based on a Bernoulli-style run suppression model.
 
 ## Navigation
-- [Daily Rankings](#daily-rankings)
-- [Methodology](./methodology.md)
-- [2026 Archive](https://github.com/Murray2061/Bernoullis-on-the-Mound/tree/main/2026)
-- [View as Webpage (GitHub Pages)](https://murray2061.github.io/Bernoullis-on-the-Mound/)
-- [Data Disclosure](#data-disclosure)
+- [Daily Rankings](#daily-rankings) - Today's top suppressors and our heart-attack drama risk.
+- [Methodology](./methodology.md) - A deep dive into how we calculate Zen, Drama, and Meltdown states.
+- [2026 Archive](https://github.com/Murray2061/Bernoullis-on-the-Mound/tree/main/2026) - Previous daily reports and monthly history.
+- [View as Webpage (GitHub Pages)](https://murray2061.github.io/Bernoullis-on-the-Mound/) - The mobile-friendly dashboard (cleaner presentation for humans).
+- [Data Disclosure](#data-disclosure) - Source and attribution notes for the underlying data.
 
 ## Glossary
 - **Tier**: Assigned by comparison to Bernoulli dummy pitchers, which serve as fixed reference thresholds for the S/A/B/C/D bands.
