@@ -7,6 +7,7 @@ Daily MLB pitcher rankings throughout the 2026 season, based on a Bernoulli-styl
 - [Methodology](./methodology.md) - How the Bernoulli model, suppression score, tier system, and Zen/Drama/Meltdown states are defined.
 - [2026 Archive](https://github.com/Murray2061/Bernoullis-on-the-Mound/tree/main/2026/04) - Previous daily reports and monthly history.
 - [Data Disclosure](#data-disclosure) - Source and attribution notes for the underlying data.
+- [View on GitHub Repo](https://github.com/Murray2061/Bernoullis-on-the-Mound) - The full repository, file history, and archive browser.
 
 ## Glossary
 - **Tier**: Assigned by comparison to Bernoulli dummy pitchers, which serve as fixed reference thresholds for the S/A/B/C/D bands.
