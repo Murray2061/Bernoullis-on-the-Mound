@@ -2,8 +2,9 @@
 Daily MLB pitcher rankings throughout the 2026 season, based on a Bernoulli-style run suppression model.
 
 ## Navigation
-- [2026 Archive](https://github.com/Murray2061/Bernoullis-on-the-Mound/tree/main/2026)
+- [2026 Daily Rankings](#daily-rankings)
 - [Methodology](./methodology.md)
+- [2026 Archive](https://github.com/Murray2061/Bernoullis-on-the-Mound/tree/main/2026)
 - [Data Disclosure](#data-disclosure)
 
 ## Glossary
@@ -14,6 +15,8 @@ Daily MLB pitcher rankings throughout the 2026 season, based on a Bernoulli-styl
 - **Zen / Drama / Meltdown**: Three entropy-based states. **Zen** is the calm, dominant state; **Drama** is the unstable, heart-attack, don’t-throw-the-TV state; **Meltdown** is the breakdown state, where runs are already written into the outcome.
 - **(GHOST)**: A pseudo-pitcher used to account for runs scored by the automatic ghost runner in extra innings.
 
+
+## Daily Rankings
 
 Created on: 2026-04-06; MLB totals: 1340.0 runs, 2698.2 IP.
 
