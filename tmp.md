@@ -4,7 +4,7 @@ Daily MLB pitcher rankings throughout the 2026 season, based on a Bernoulli-styl
 ## Navigation
 - [2026 Daily Rankings](#daily-rankings)
 - [Methodology](./methodology.md)
-- [2026 Archive](https://github.com/Murray2061/Bernoullis-on-the-Mound/tree/main/2026)
+- [2026 Archive](https://github.com/Murray2061/Bernoullis-on-the-Mound/tree/main/2026/04)
 - [Data Disclosure](#data-disclosure)
 
 ## Glossary
