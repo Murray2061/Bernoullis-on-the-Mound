@@ -4,7 +4,7 @@ Daily MLB pitcher rankings throughout the 2026 season, based on a Bernoulli-styl
 ## Navigation
 - [2026 Archive](https://github.com/Murray2061/Bernoullis-on-the-Mound/tree/main/2026)
 - [Methodology](./methodology.md)
-- [Data Disclosure](#Data Disclosure)
+- [Data Disclosure](#data-disclosure)
 
 ## Glossary
 - **Tier**: Assigned by comparison to Bernoulli dummy pitchers, which serve as fixed reference thresholds for the S/A/B/C/D bands.
