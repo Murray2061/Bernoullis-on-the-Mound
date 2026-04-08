@@ -1,13 +1,14 @@
 # Bernoullis-on-the-Mound
-Daily MLB pitcher rankings throughout the 2026 season, based on a Bernoulli-style run suppression model.
+A daily 2026 MLB pitcher ranking system built on a **Bernoulli reference model**, using **Suppression** probabilities to measure how rare a pitcher’s run-prevention line is. It also includes a structural uncertainty framework based on **combinatorial entropy** S = log2(Ω), which classifies performances into **Zen**, **Drama**, and **Meltdown** states.
 
 ## Navigation
 - [View as Webpage (GitHub Pages)](https://murray2061.github.io/Bernoullis-on-the-Mound/) - The mobile-friendly dashboard (cleaner presentation for humans).
 - [Daily Rankings](#daily-rankings) - Today's top suppressors and our heart-attack drama risk.
-- [Methodology](./methodology.md) - How the Bernoulli model, suppression score, tier system, and Zen/Drama/Meltdown states are defined.
+- [Methodology](methodology.md) - How the Bernoulli model, suppression score, tier system, and Zen/Drama/Meltdown states are defined.
 - [2026 Archive](https://github.com/Murray2061/Bernoullis-on-the-Mound/tree/main/2026/04) - Previous daily reports and monthly history.
 - [Data Disclosure](#data-disclosure) - Source and attribution notes for the underlying data.
 - [View on GitHub Repo](https://github.com/Murray2061/Bernoullis-on-the-Mound) - The full repository, file history, and archive browser.
+
 
 ## Glossary
 - **Tier**: Assigned by comparison to Bernoulli dummy pitchers, which serve as fixed reference thresholds for the S/A/B/C/D bands.
