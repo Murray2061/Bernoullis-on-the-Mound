@@ -64,14 +64,14 @@ The main purpose of this layer is to capture **uncertainty** in the structure of
 
 So instead of measuring spread in run values, this model measures uncertainty in the arrangement of outs and runs within a fixed line. Remember that a pitcher’s line is treated as a sequence made from two event types: `o` for outs and `x` for divided runs.  The uncertainty considered here is about the structural complexity of how outs and divided runs are arranged within the line. Once the total numbers of outs and divided runs are fixed, the relevant question becomes: how many distinct sequences are compatible with that same performance?
 
-That count is a combinatorial object, so the natural uncertainty measure is combinatorial entropy $S = \log_2 \Omega$.
+That count is a combinatorial object, so the natural uncertainty measure is combinatorial entropy S = log2(Ω).
 
 This entropy measures how strongly a pitcher’s runs and outs are entangled within the line. In baseball terms, it reflects the kind of performance that makes fans sweat, pace, and consider filing a complaint against their own bullpen-induced blood pressure. For that reason, this component is called **Drama**; its unit is **bits**.
 
 The full line also has a **total bit count**: every out and every run contributes one event, so **total bits = outs + runs**. After the **Drama** part takes away the tangled, heart-attack portion of the line, the remaining bits are split by the pitcher’s **outs-to-runs ratio**. The out-heavy share is called **Zen** — the clean, under-control part of the performance. The run-heavy share is called **Meltdown** — the clear damage part, where the line stops being tense and just starts hurting.
 
 
-## Reading the statistics
+## Reading the Statistics
 
 **Suppression** is the main ranking score. It measures how hard a pitcher’s line would be for the league-level **MLB Bernoulli pitcher** to reproduce, so **lower is better**. In the table above, **José Soriano** ranks first because his suppression is **0.00097189**, which is about **0.1%**; by comparison, the **Dummy-S** line (9.0 IP, 0 R) has a suppression of **0.01599666**, or about **1.6%**, so Soriano’s line is much rarer.
 
