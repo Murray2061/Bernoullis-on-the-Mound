@@ -1,5 +1,8 @@
 # Methodology
 
+A daily 2026 MLB pitcher ranking system built on a **Bernoulli reference model**, using **Suppression** probabilities to measure how rare a pitcher’s run-prevention line is. It also includes a structural uncertainty framework based on **combinatorial entropy** S = log2(Ω), which classifies performances into **Zen**, **Drama**, and **Meltdown** states.
+
+
 ## Overview  
 
 Bernoullis on the Mound evaluates pitchers along two complementary axes.
@@ -7,6 +10,7 @@ Bernoullis on the Mound evaluates pitchers along two complementary axes.
 The first is **suppression**, a probability-based score that asks how rare a pitcher’s run-prevention line is under a league-average Bernoulli reference model. The second is an **entropy-based decomposition** of the realized line into **Zen**, **Drama**, and **Meltdown**, designed to describe the **uncertainty** within the performance — that is, how outs and divided runs are structurally distributed and entangled within the line.
 
 **Note on Project Evolution:** Earlier versions of this project (2025) explored **team doctrines** as a staff-level classification layer, but that first framework has been set aside. The project is developing a renewed **team doctrines** layer, intended as a higher-level interpretation built on top of suppression and entropy statistics, but that framework is still under construction.
+
 
 ## The Bernoulli Reference Model
 
@@ -17,6 +21,7 @@ Imagine a pitcher’s season as a long string of encoded results: `ooxoxxxoxoox.
 To judge these sequences, we aggregate the performance of every pitcher in the league to create a single, imaginary benchmark: the **MLB Bernoulli Pitcher**. This ideal pitcher represents the perfect mathematical average of the current season.
 
 We then evaluate every real-world pitcher by asking: If we let this idealized MLB Bernoulli Pitcher take the mound for the same number of innings, what are the odds he would accidentally produce a line as good as—or better than—the one we just witnessed? This probability is what we call **Suppression**.
+
 
 ## Suppression
 
@@ -71,7 +76,7 @@ This entropy measures how strongly a pitcher’s runs and outs are entangled wit
 The full line also has a **total bit count**: every out and every run contributes one event, so **total bits = outs + runs**. After the **Drama** part takes away the tangled, heart-attack portion of the line, the remaining bits are split by the pitcher’s **outs-to-runs ratio**. The out-heavy share is called **Zen** — the clean, under-control part of the performance. The run-heavy share is called **Meltdown** — the clear damage part, where the line stops being tense and just starts hurting.
 
 
-## Reading the Statistics
+## Reading the statistics
 
 **Suppression** is the main ranking score. It measures how hard a pitcher’s line would be for the league-level **MLB Bernoulli pitcher** to reproduce, so **lower is better**. In the table above, **José Soriano** ranks first because his suppression is **0.00097189**, which is about **0.1%**; by comparison, the **Dummy-S** line (9.0 IP, 0 R) has a suppression of **0.01599666**, or about **1.6%**, so Soriano’s line is much rarer.
 
