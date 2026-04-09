@@ -2,7 +2,7 @@
 A daily 2026 MLB pitcher ranking system built on a **Bernoulli reference model**, using **Suppression** probabilities to measure how rare a pitcher’s run-prevention line is. It also includes a structural uncertainty framework based on **combinatorial entropy** S = log2(Ω), which classifies performances into **Zen**, **Drama**, and **Meltdown** states.
 
 ## Highlight
-Mitch Keller kicked the door down and entered S-tier. He jumped from No. 34 to No. 5
+Mitch Keller kicked the door down and entered S-tier. He jumped from No. 34 to No. 5.
 
 ## Navigation
 - [View as Webpage (GitHub Pages)](https://murray2061.github.io/Bernoullis-on-the-Mound/) - The mobile-friendly dashboard (cleaner presentation for humans).
