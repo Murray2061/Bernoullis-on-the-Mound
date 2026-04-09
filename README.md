@@ -1,3 +1,5 @@
+<link rel="icon" href="https://murray2061.github.io/favicon.png">
+
 # Bernoullis-on-the-Mound
 A daily 2026 MLB pitcher ranking system built on a **Bernoulli reference model**, using **Suppression** probabilities to measure how rare a pitcher’s run-prevention line is. It also includes a structural uncertainty framework based on **combinatorial entropy** S = log2(Ω), which classifies performances into **Zen**, **Drama**, and **Meltdown** states.
 
