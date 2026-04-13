@@ -4,7 +4,8 @@ A daily 2026 MLB pitcher ranking system built on a **Bernoulli reference model**
 
 ## Highlight
 
-José Soriano moves to No. 1 after a 7.0-IP, 0-run gem. Sandy Alcantara, meanwhile, got obliterated by a 6.0-IP, 7-run outing and is down to No. 50.
+José Soriano moves to No. 1 after a 7.0-IP, 0-run gem. Sandy Alcantara, who opened the day at No. 2, got obliterated by a 6.0-IP, 7-run outing and is down to No. 50.
+
 
 ## Navigation
 - [View as Webpage (GitHub Pages)](https://murray2061.github.io/Bernoullis-on-the-Mound/) - The mobile-friendly dashboard (cleaner presentation for humans).
